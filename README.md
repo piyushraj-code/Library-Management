@@ -54,16 +54,11 @@ library.show_available_books()
 # Output:
 # Title: Python 101 | Author: Guido van Rossum | File_Size: 5MB
 
-🔮 Future Improvements
+# 🔮 Future Improvements
 Add a User class to track who borrowed the book.
 
 Implement a fine calculation system for late returns.
 
 Add a database (SQL) to save book records permanently.
 
----
 
-### What to do next?
-Since you have finished this project, you have a solid portfolio piece for your first year as a B.Tech student!
-
-If you ever want to tackle that **Vector/Physics** challenge we discussed to practice Python's "Magic Methods" (`__add__`, `__str__`), just let me know. Good luck with your coding!
